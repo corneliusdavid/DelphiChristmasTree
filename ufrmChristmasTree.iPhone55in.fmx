@@ -1,0 +1,17 @@
+inherited frmChristmasTree_iPhone55in: TfrmChristmasTree_iPhone55in
+  ClientHeight = 736
+  ClientWidth = 414
+  DesignerMasterStyle = 2
+  inherited ConeChristmasTree: TCone
+    Position.X = -0.170321077108383200
+    RotationAngle.X = 351.132781982421900000
+    RotationAngle.Y = 347.151245117187500000
+    RotationAngle.Z = 18.378509521484380000
+    Quanternion = 
+      '(0.263284713029861,0.0908942073583603,-0.0490327998995781,-0.959' +
+      '173500537872)'
+    inherited Path3dStar: TPath3D
+      Quanternion = '(0,0.382683455944061,0,0.923879504203796)'
+    end
+  end
+end

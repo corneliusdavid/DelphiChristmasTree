@@ -1,0 +1,10 @@
+inherited frmChristmasTree_NmXhdpiPh: TfrmChristmasTree_NmXhdpiPh
+  ClientHeight = 640
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited ConeChristmasTree: TCone
+    inherited Path3dStar: TPath3D
+      Quanternion = '(0,0.382683455944061,0,0.923879504203796)'
+    end
+  end
+end
